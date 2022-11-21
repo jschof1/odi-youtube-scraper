@@ -1,0 +1,15 @@
+{
+  "name": "odi-youtube-scraper",
+  "version": "1.0.1",
+  "description": "This package scrapes youtube for videos and returns the data in a JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Schofield <jackschofield1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^109.0.1",
+    "youtube-tags": "^1.0.0"
+  }
+}
